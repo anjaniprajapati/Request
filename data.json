@@ -1,0 +1,14 @@
+{
+      "data1": {
+            "name": "Anjnai",
+            "class": 11,
+            "Age": 17,
+            "phone no": 8470869987
+      },
+      "data2": {
+            "name": "Ranjani",
+            "class": 10,
+            "Age": 15,
+            "phone": 7275675442
+      }
+}
